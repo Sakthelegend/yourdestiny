@@ -7,7 +7,7 @@ function check(){
     var nme=person.charAt(0);
 
     if(nme=="a"){
-        document.getElementById("p2").innerHTML="មនុស្សដែលមានឈ្មោះចាប់ផ្តើមដោយ "A" មានគុណសម្បត្តិនៃភាពជាអ្នកដឹកនាំ និងមានអំណាចដើម្បីឈានទៅដល់ភាពជោគជ័យតាមរយៈប្រាជ្ញា និងភាពវៃឆ្លាតរបស់ពួកគេ។ មនុស្សទាំងនេះមានមហិច្ឆតាខ្ពស់ ត្រង់ត្រង់ៗ និងផ្តោតលើជោគវាសនារបស់ពួកគេ។ ជាងនេះទៅទៀត មនុស្សទាំងនេះចូលចិត្តឱ្យអ្នកដទៃធ្វើតាមពួកគេ ហើយធ្វើការតាមជម្រើសរបស់ពួកគេ។";
+        document.getElementById("p2").innerHTML="មនុស្សដែលមានឈ្មោះចាប់ផ្តើមដោយ “A” មានគុណសម្បត្តិនៃភាពជាអ្នកដឹកនាំ និងមានអំណាចដើម្បីឈានទៅដល់ភាពជោគជ័យតាមរយៈប្រាជ្ញា និងភាពវៃឆ្លាតរបស់ពួកគេ។ មនុស្សទាំងនេះមានមហិច្ឆតាខ្ពស់ ត្រង់ត្រង់ៗ និងផ្តោតលើជោគវាសនារបស់ពួកគេ។ ជាងនេះទៅទៀត មនុស្សទាំងនេះចូលចិត្តឱ្យអ្នកដទៃធ្វើតាមពួកគេ ហើយធ្វើការតាមជម្រើសរបស់ពួកគេ។";
     }
     else if(nme=="b"){
         document.getElementById("p2").innerHTML="Names starting with the letter “B” are hyper-sensitive and like to be pampered by others. These people want attention all the time and if you ignore them, you might see their worst side. Loving and caring is all that the letter “B” stands for. This is the reason they enjoy being with family and friends all the time.";
